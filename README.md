@@ -2,7 +2,9 @@
 Aplikasi Kapalzy
 
 Nama  : Liana Khairunnisa Bancin
+
 Nim   : 118140049
+
 kelas : PAM RC
 
 Deskripsi Aplikasi
